@@ -1,0 +1,19 @@
+{
+  "name": "jquery.drag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.event.drag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiCoTeRoX/jquery.drag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiCoTeRoX/jquery.drag/issues"
+  },
+  "homepage": "https://github.com/RiCoTeRoX/jquery.drag#readme"
+}

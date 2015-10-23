@@ -1,0 +1,18 @@
+{
+  "name": "jquery.drag",
+  "homepage": "https://github.com/RiCoTeRoX/jquery.drag",
+  "authors": [
+    "Danny <ricoterox@gmail.com>"
+  ],
+  "description": "jquery drag for slickgrid",
+  "main": "jquery.event.drag.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
